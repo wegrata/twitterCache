@@ -1,0 +1,16 @@
+Brownie==0.5.1
+CouchDB==0.8
+Couchapp==1.0.1
+PyYAML==3.10
+argh==0.15.0
+certifi==0.0.8
+chardet==1.0.1
+http-parser==0.7.5
+meld3==0.6.8
+pathtools==0.1.2
+requests==0.10.6
+restkit==4.1.2
+socketpool==0.3.0
+supervisor==3.0a12
+watchdog==0.5.4
+wsgiref==0.1.2
