@@ -5,7 +5,7 @@ import requests
 
 def main():
     data = {'track':'#lrnchat'}
-    auth = ('wegrata','g15t15')
+    auth = ('user','password')
     url = 'https://stream.twitter.com/1/statuses/filter.json'
     db = couchdb.Database('http://wegrata.iriscouch.com/twitter')
     response = requests.post(url,auth=auth,data=data)
